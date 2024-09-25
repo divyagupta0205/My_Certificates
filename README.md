@@ -9,3 +9,7 @@
         6. Identity and Access Management (IAM) – Explored authentication and authorization processes for secure access.
         7. Security Operations and Monitoring – Learned about continuous security monitoring and threat detection tools.
         8. Compliance and Security Frameworks – Overview of industry standards and frameworks to maintain security compliance.
+### 2. Mastercard Virtual Simulation
+       * Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
+       * Helped identify and report security threats such as phishing 
+       * Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
