@@ -1,5 +1,5 @@
 # My_Certificates
-###1. Google CyberSecurity
+### 1. Google CyberSecurity
       Throughout this journey, I gained valuable insights and skills to enhance my cybersecurity knowledge. Here’s a brief overview of the key modules covered:
         1. Foundations of Cybersecurity – Introduction to the principles, goals, and the need for cybersecurity.
         2. Network Security & Defense – Understanding how to secure networks, firewalls, and defense mechanisms.
